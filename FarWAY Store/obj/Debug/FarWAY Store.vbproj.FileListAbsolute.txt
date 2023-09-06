@@ -1,0 +1,15 @@
+c:\users\mktad\onedrive\documents\visual studio 2013\Projects\FarWAY Store\FarWAY Store\bin\Debug\FarWAY Store.exe.config
+c:\users\mktad\onedrive\documents\visual studio 2013\Projects\FarWAY Store\FarWAY Store\bin\Debug\FarWAY Store.exe
+c:\users\mktad\onedrive\documents\visual studio 2013\Projects\FarWAY Store\FarWAY Store\bin\Debug\FarWAY Store.pdb
+c:\users\mktad\onedrive\documents\visual studio 2013\Projects\FarWAY Store\FarWAY Store\bin\Debug\FarWAY Store.xml
+c:\users\mktad\onedrive\documents\visual studio 2013\Projects\FarWAY Store\FarWAY Store\obj\Debug\FarWAY_Store.Main.resources
+c:\users\mktad\onedrive\documents\visual studio 2013\Projects\FarWAY Store\FarWAY Store\obj\Debug\FarWAY_Store.Resources.resources
+c:\users\mktad\onedrive\documents\visual studio 2013\Projects\FarWAY Store\FarWAY Store\obj\Debug\FarWAY Store.vbproj.GenerateResource.Cache
+c:\users\mktad\onedrive\documents\visual studio 2013\Projects\FarWAY Store\FarWAY Store\obj\Debug\FarWAY Store.exe
+c:\users\mktad\onedrive\documents\visual studio 2013\Projects\FarWAY Store\FarWAY Store\obj\Debug\FarWAY Store.xml
+c:\users\mktad\onedrive\documents\visual studio 2013\Projects\FarWAY Store\FarWAY Store\obj\Debug\FarWAY Store.pdb
+C:\Users\mktad\OneDrive\Documents\Visual Studio 2013\Projects\FarWAY Store\FarWAY Store\obj\Debug\FarWAY_Store.LoginForm.resources
+C:\Users\mktad\onedrive\documents\visual studio 2013\Projects\FarWAY Store\FarWAY Store\obj\Debug\FarWAY_Store.Products.resources
+C:\Users\mktad\onedrive\documents\visual studio 2013\Projects\FarWAY Store\FarWAY Store\obj\Debug\FarWAY_Store.Selling.resources
+C:\Users\mktad\onedrive\documents\visual studio 2013\Projects\FarWAY Store\FarWAY Store\obj\Debug\FarWAY_Store.Setting.resources
+C:\Users\mktad\OneDrive\Documents\Visual Studio 2013\Projects\FarWAY Store\FarWAY Store\obj\Debug\FarWAY_Store.Debt.resources
